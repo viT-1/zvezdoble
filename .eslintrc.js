@@ -1,7 +1,7 @@
 const conf = {
     extends: 'airbnb-base',
     root: true,
-    plugins: ['json', 'markdown'],
+    plugins: ['json'],
 };
 
 module.exports = conf;
